@@ -1,0 +1,35 @@
+body {
+    width: 80%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: midnightblue;
+}
+
+.con-pad50 {
+    padding-top: 50px;
+}
+
+.con-ti {
+    width: 80%;
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.con-btn {
+    width: 10%;
+    display: inline-block;
+    padding: 20px;
+    background-color: chartreuse;
+    color: whitesmoke;
+    font-size: 16px;
+    border: 1px solid chartreuse;
+    border-radius: 5px;
+}
+
+.con-image {
+    width: 30%;
+    display: block;
+    float: left;
+    margin-right: 3%;
+}
