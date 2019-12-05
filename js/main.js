@@ -1,0 +1,1 @@
+alert("Check JS OKE!");
