@@ -27,7 +27,7 @@ function cariGIFS(cari) {
     PanggilGiphy.addEventListener('load',function(data){
         var data = data.target.response;
         pushToDOM(data);
-        //console.log(data);
+        console.log(data);
     });
 }
 
